@@ -24,9 +24,7 @@ It achieved 98.51% of accuracy with this CNN trained on a GPU, which took me abo
 
 ## Execution
 
-![alt text](https://github.com/shubham99bisht/Handwritten-digit-recognition-MNIST/blob/master/src/ml2.gif)
 
-To run the code type,
 
 `python digit_recogniser.py`
 
